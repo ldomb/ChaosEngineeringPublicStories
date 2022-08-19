@@ -11,9 +11,13 @@ _**Financial Services**_
 **National Australia Bank**  
 [Observability in the realm of Chaos Engineering](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
 **JPMC**  
-[Don't ignore Chaos testing!](https://antrix.net/posts/2021/chaos/) [https://www.youtube.com/watch?v=8e93cFBpvPQ](https://www.youtube.com/watch?v=8e93cFBpvPQ) [https://github.com/jpmorganchase/kallisti](https://github.com/jpmorganchase/kallisti)  
-**DBS bank limited**  [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9) [https://youtu.be/effnedZRURc"](https://youtu.be/effnedZRURc)  
-**Vanguard**  [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin) [https://www.youtube.com/watch?v=2YS9l5WbzGk](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
+[Don't ignore Chaos testing!](https://antrix.net/posts/2021/chaos/)  
+[Chaos engineering @ J.P. Morgan Chase - Garima Singh & Deepak Sarda](https://www.youtube.com/watch?v=8e93cFBpvPQ)   
+[kallisti](https://github.com/jpmorganchase/kallisti)  
+**DBS bank limited**  [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9) 
+[How DBS dispelled the myths of Chaos Engineering](https://youtu.be/effnedZRURc)  
+**Vanguard**  [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
+[How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
 **Bloomberg**  [Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
 **DTCC**  [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
 **Intuit**  [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit) [https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  

@@ -3,7 +3,7 @@ This list provides you with various public stories about Chaos Engineering. If y
 _**Financial Services**_
 ------------------------
 
-**Starling Bank:**   
+**Starling Bank**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
 **Capital One**  
 [Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
@@ -14,77 +14,105 @@ _**Financial Services**_
 [Don't ignore Chaos testing!](https://antrix.net/posts/2021/chaos/)  
 [Chaos engineering @ J.P. Morgan Chase - Garima Singh & Deepak Sarda](https://www.youtube.com/watch?v=8e93cFBpvPQ)   
 [kallisti](https://github.com/jpmorganchase/kallisti)  
-**DBS bank limited**  [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
+**DBS bank limited**  
+[How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
 [How DBS dispelled the myths of Chaos Engineering](https://youtu.be/effnedZRURc)  
-**Vanguard**  [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
+**Vanguard**  
+[Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
 [How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
-**Bloomberg**  [Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
-**DTCC**  [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
-**Intuit**  [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
+**Bloomberg**  
+[Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
+**DTCC**  
+[Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
+**Intuit**  
+[Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
 [Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
-**TD Bank**  [Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
+**TD Bank**  
+[Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
 [Continuous Stability Engineering](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
-**Stripe** [How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
-**Goldman Sachs** [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
+**Stripe**  
+[How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
+**Goldman Sachs**   
+[Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 
 _**Health Care**_
 -----------------
 
-**Cerner** [Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/)
+**Cerner**  
+[Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/)
 
 _**Insurance**_
 ---------------
 
-**Express Scripts** [Chaos and Resilience Engineering - My Journey](https://www.information-safety.org/assets/secure360-chaos-resilience-notes.pdf)
+**Express Scripts**  
+[Chaos and Resilience Engineering - My Journey](https://www.information-safety.org/assets/secure360-chaos-resilience-notes.pdf)
 
 Media and Entertainment
 -----------------------
 
-**Slack** [Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
-**Netflix** [Chaos Engineering Blog](https://netflixtechblog.com/tagged/chaos-engineering)  
-**Audible** [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
+**Slack**  
+[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
+**Netflix**  
+[Chaos Engineering Blog](https://netflixtechblog.com/tagged/chaos-engineering)  
+**Audible**  
+[Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
 [Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
-**Amazon Prime** [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
+**Amazon Prime**  
+[From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
 
 _**TELCO**_
 -----------
 
-**T-mobile** [The Start of Chaos Engineering at T-Mobile](https://opensource.t-mobile.com/blog/posts/chaos-engineering/)  
+**T-mobile**  
+[The Start of Chaos Engineering at T-Mobile](https://opensource.t-mobile.com/blog/posts/chaos-engineering/)  
 [Monarch: App-level Chaos Engineering](https://opensource.t-mobile.com/blog/posts/monarch-app-level/)  
-**Orange** [Validating the resiliency of Orange’s private telco.](https://litmuschaos.io/adopters/orange)  
-**Twilio** [Chaos Engineering at Twilio](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
+**Orange**  
+[Validating the resiliency of Orange’s private telco.](https://litmuschaos.io/adopters/orange)  
+**Twilio**  
+[Chaos Engineering at Twilio](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
 
 
 _**Retail**_
 -----------
 
-**Target** [ Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  
+**Target**  
+[ Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  
 [Ɔhaos Ǝnginǝǝring @ Target - Part 2](https://tech.target.com/blog/chaos-engineering-at-target-part-2)  
-**Walmart** [Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  
+**Walmart**  
+[Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  
 [Resiliency Doctor — A tool to achieve resiliency in hybrid cloud application ecosystems](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7)  
-**Etsy** [Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)
+**Etsy**  
+[Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)
 
 _**Transport / Airlines**_
 ---------------
 
-**Alaska Airlines** [When Observability is Good for Chaos](https://www.rtinsights.com/when-observability-is-good-for-chaos/)  
-**Lyft** [Chaos Experimentation](https://clutch.sh/blog/2021/05/18/chaos-experimentation/)  
-**Uber** [Chaos Engineering @ Uber](https://www.youtube.com/watch?v=ywSAwYsIk8k)  
+**Alaska Airlines**  
+[When Observability is Good for Chaos](https://www.rtinsights.com/when-observability-is-good-for-chaos/)  
+**Lyft**  
+[Chaos Experimentation](https://clutch.sh/blog/2021/05/18/chaos-experimentation/)  
+**Uber**  
+[Chaos Engineering @ Uber](https://www.youtube.com/watch?v=ywSAwYsIk8k)  
 
 
 _**FoodDelivery**_
 ---------------
 
-**Door Dash** [Using Fault Injection Testing to Improve DoorDash Reliability](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
+**Door Dash**  
+[Using Fault Injection Testing to Improve DoorDash Reliability](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
 
 _**Hospitality**_
 -----------------
 
-**Expedia** [Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/) [https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
-**VRBO, Hotels.com** [London Chaos and Resilience Engineering Community](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
+**Expedia**  
+[Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/) [https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
+**VRBO, Hotels.com**  
+[London Chaos and Resilience Engineering Community](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 
-**Air Force** [How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force) [https://kesselrun.af.mil/news/CHAOS-Engineering.html](https://kesselrun.af.mil/news/CHAOS-Engineering.html)  
-**Ministry of Justice UK** [Cloud Platform Chaos](https://github.com/ministryofjustice/cloud-platform-chaos)
+**Air Force**  
+[How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force) [https://kesselrun.af.mil/news/CHAOS-Engineering.html](https://kesselrun.af.mil/news/CHAOS-Engineering.html)  
+**Ministry of Justice UK**  
+[Cloud Platform Chaos](https://github.com/ministryofjustice/cloud-platform-chaos)

@@ -14,14 +14,16 @@ _**Financial Services**_
 [Don't ignore Chaos testing!](https://antrix.net/posts/2021/chaos/)  
 [Chaos engineering @ J.P. Morgan Chase - Garima Singh & Deepak Sarda](https://www.youtube.com/watch?v=8e93cFBpvPQ)   
 [kallisti](https://github.com/jpmorganchase/kallisti)  
-**DBS bank limited**  [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9) 
+**DBS bank limited**  [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
 [How DBS dispelled the myths of Chaos Engineering](https://youtu.be/effnedZRURc)  
 **Vanguard**  [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
 [How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
 **Bloomberg**  [Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
 **DTCC**  [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
-**Intuit**  [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit) [https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
-**TD Bank**  [Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob) [https://www.youtube.com/watch?v=h2oqL3XHrGA](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
+**Intuit**  [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
+[Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
+**TD Bank**  [Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
+[Continuous Stability Engineering](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
 **Stripe** [How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
 **Goldman Sachs** [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 
@@ -40,13 +42,15 @@ Media and Entertainment
 
 **Slack** [Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
 **Netflix** [Chaos Engineering Blog](https://netflixtechblog.com/tagged/chaos-engineering)  
-**Audible** [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/) [https://www.youtube.com/watch?v=7uJG3oPw\_AA](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
+**Audible** [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
+[Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
 **Amazon Prime** [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
 
 _**TELCO**_
 -----------
 
-**T-mobile** [The Start of Chaos Engineering at T-Mobile](https://opensource.t-mobile.com/blog/posts/chaos-engineering/) [https://opensource.t-mobile.com/blog/posts/monarch-app-level/](https://opensource.t-mobile.com/blog/posts/monarch-app-level/)  
+**T-mobile** [The Start of Chaos Engineering at T-Mobile](https://opensource.t-mobile.com/blog/posts/chaos-engineering/)  
+[Monarch: App-level Chaos Engineering](https://opensource.t-mobile.com/blog/posts/monarch-app-level/)  
 **Orange** [Validating the resiliency of Orange’s private telco.](https://litmuschaos.io/adopters/orange)  
 **Twilio** [Chaos Engineering at Twilio](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
 

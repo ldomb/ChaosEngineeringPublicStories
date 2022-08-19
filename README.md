@@ -3,9 +3,9 @@ This list provides you with various public stories about Chaos Engineering.
 _**Financial Services**_
 ------------------------
 
-**Starling Bank** [https://www.infoq.com/articles/chaos-testing-starling-bank/](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
-**Capital One** [https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
-[https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  
+**Starling Bank** [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
+**Capital One** [Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
+[5 Steps to Getting Your App Chaos Ready](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  
 **National Australia Bank** [https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
 **JPMC** [https://antrix.net/posts/2021/chaos/](https://antrix.net/posts/2021/chaos/) [https://www.youtube.com/watch?v=8e93cFBpvPQ](https://www.youtube.com/watch?v=8e93cFBpvPQ) [https://github.com/jpmorganchase/kallisti](https://github.com/jpmorganchase/kallisti)  
 **DBS bank limited** [https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9) [https://youtu.be/effnedZRURc"](https://youtu.be/effnedZRURc)  

@@ -53,14 +53,24 @@ _**Retail**_
 _**Transport**_
 ---------------
 
-**Alaska Airlines** [https://www.rtinsights.com/when-observability-is-good-for-chaos/](https://www.rtinsights.com/when-observability-is-good-for-chaos/) **Lyft** [https://clutch.sh/blog/2021/05/18/chaos-experimentation/](https://clutch.sh/blog/2021/05/18/chaos-experimentation/) **Uber** [https://www.youtube.com/watch?v=ywSAwYsIk8k](https://www.youtube.com/watch?v=ywSAwYsIk8k) **Door Dash** [https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
+**Alaska Airlines** [https://www.rtinsights.com/when-observability-is-good-for-chaos/](https://www.rtinsights.com/when-observability-is-good-for-chaos/)  
+**Lyft** [https://clutch.sh/blog/2021/05/18/chaos-experimentation/](https://clutch.sh/blog/2021/05/18/chaos-experimentation/)  
+**Uber** [https://www.youtube.com/watch?v=ywSAwYsIk8k](https://www.youtube.com/watch?v=ywSAwYsIk8k)  
+
+
+_**FoodDelivery**_
+---------------
+
+**Door Dash** [https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/](https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/)
 
 _**Hospitality**_
 -----------------
 
-**Expedia** [https://www.infoq.com/presentations/automating-attacks/](https://www.infoq.com/presentations/automating-attacks/) [https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests) **VRBO, Hotels.com** [https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
+**Expedia** [https://www.infoq.com/presentations/automating-attacks/](https://www.infoq.com/presentations/automating-attacks/) [https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
+**VRBO, Hotels.com** [https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 
-**Air Force** [https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force) [https://kesselrun.af.mil/news/CHAOS-Engineering.html](https://kesselrun.af.mil/news/CHAOS-Engineering.html) **Ministry of Justice UK** [https://github.com/ministryofjustice/cloud-platform-chaos](https://github.com/ministryofjustice/cloud-platform-chaos)
+**Air Force** [https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force) [https://kesselrun.af.mil/news/CHAOS-Engineering.html](https://kesselrun.af.mil/news/CHAOS-Engineering.html)  
+**Ministry of Justice UK** [https://github.com/ministryofjustice/cloud-platform-chaos](https://github.com/ministryofjustice/cloud-platform-chaos)

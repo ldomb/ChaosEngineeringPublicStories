@@ -38,7 +38,17 @@ Media and Entertainment
 _**TELCO**_
 -----------
 
-**T-mobile** [https://opensource.t-mobile.com/blog/posts/chaos-engineering/](https://opensource.t-mobile.com/blog/posts/chaos-engineering/) [https://opensource.t-mobile.com/blog/posts/monarch-app-level/](https://opensource.t-mobile.com/blog/posts/monarch-app-level/) **Orange** [https://litmuschaos.io/adopters/orange](https://litmuschaos.io/adopters/orange) **Twilio** [https://www.infoq.com/news/2017/12/twilio-chaos-engineering/](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/) _**Retail**_ **Target** [https://tech.target.com/blog/chaos-engineering-at-target-part-1](https://tech.target.com/blog/chaos-engineering-at-target-part-1) [https://tech.target.com/blog/chaos-engineering-at-target-part-2](https://tech.target.com/blog/chaos-engineering-at-target-part-2) **Walmart** [https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a) [https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7) **Etsy** [https://queue.acm.org/detail.cfm?id=2353017](https://queue.acm.org/detail.cfm?id=2353017)
+**T-mobile** [https://opensource.t-mobile.com/blog/posts/chaos-engineering/](https://opensource.t-mobile.com/blog/posts/chaos-engineering/) [https://opensource.t-mobile.com/blog/posts/monarch-app-level/](https://opensource.t-mobile.com/blog/posts/monarch-app-level/)  
+**Orange** [https://litmuschaos.io/adopters/orange](https://litmuschaos.io/adopters/orange)  
+**Twilio** [https://www.infoq.com/news/2017/12/twilio-chaos-engineering/](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
+
+
+_**Retail**_
+-----------
+
+**Target** [https://tech.target.com/blog/chaos-engineering-at-target-part-1](https://tech.target.com/blog/chaos-engineering-at-target-part-1) [https://tech.target.com/blog/chaos-engineering-at-target-part-2](https://tech.target.com/blog/chaos-engineering-at-target-part-2)  
+**Walmart** [https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a) [https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7)  
+**Etsy** [https://queue.acm.org/detail.cfm?id=2353017](https://queue.acm.org/detail.cfm?id=2353017)
 
 _**Transport**_
 ---------------

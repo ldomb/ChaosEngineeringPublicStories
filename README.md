@@ -3,9 +3,9 @@ This list provides you with various public stories about Chaos Engineering.
 _**Financial Services**_
 ------------------------
 
-**Starling Bank:**. 
+**Starling Bank:**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
-**Capital One**. 
+**Capital One**  
 [Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
 [5 Steps to Getting Your App Chaos Ready](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  
 **National Australia Bank** [https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  

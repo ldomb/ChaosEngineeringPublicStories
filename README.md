@@ -11,10 +11,10 @@ _**Financial Services**_
 **DBS bank limited** [https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9) [https://youtu.be/effnedZRURc"](https://youtu.be/effnedZRURc)  
 **Vanguard** [https://www.usenix.org/conference/srecon20americas/presentation/yakomin](https://www.usenix.org/conference/srecon20americas/presentation/yakomin) [https://www.youtube.com/watch?v=2YS9l5WbzGk](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
 **Bloomberg** [https://youtu.be/KKFiR\_F3n8I](https://youtu.be/KKFiR_F3n8I)  
-**DTCC** [https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)
+**DTCC** [https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
 **Intuit** [https://litmuschaos.io/adopters/intuit](https://litmuschaos.io/adopters/intuit) [https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
-**TD Bank** [https://devopsdays.org/events/2019-toronto/program/suzan-mahboob](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob) [https://www.youtube.com/watch?v=h2oqL3XHrGA](https://www.youtube.com/watch?v=h2oqL3XHrGA)
-**Stripe** [https://www.youtube.com/watch?v=H13beqD7Hbk](https://www.youtube.com/watch?v=H13beqD7Hbk)
+**TD Bank** [https://devopsdays.org/events/2019-toronto/program/suzan-mahboob](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob) [https://www.youtube.com/watch?v=h2oqL3XHrGA](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
+**Stripe** [https://www.youtube.com/watch?v=H13beqD7Hbk](https://www.youtube.com/watch?v=H13beqD7Hbk)  
 **Goldman Sachs** [https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 
 _**Health Care**_
@@ -30,7 +30,10 @@ _**Insurance**_
 Media and Entertainment
 -----------------------
 
-**Slack** [https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/) **Netflix** [https://netflixtechblog.com/tagged/chaos-engineering](https://netflixtechblog.com/tagged/chaos-engineering) **Audible** [https://stn.audible.com/chaos-engineering/](https://stn.audible.com/chaos-engineering/) [https://www.youtube.com/watch?v=7uJG3oPw\_AA](https://www.youtube.com/watch?v=7uJG3oPw_AA) **Amazon Prime** [https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)
+**Slack** [https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
+**Netflix** [https://netflixtechblog.com/tagged/chaos-engineering](https://netflixtechblog.com/tagged/chaos-engineering)  
+**Audible** [https://stn.audible.com/chaos-engineering/](https://stn.audible.com/chaos-engineering/) [https://www.youtube.com/watch?v=7uJG3oPw\_AA](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
+**Amazon Prime** [https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
 
 _**TELCO**_
 -----------

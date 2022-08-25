@@ -31,7 +31,7 @@ _**Financial Services**_
 [Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
 **TD Bank**  
 [Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
-[Continuous Stability Engineering](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
+[Continuous Stability Engineering Video](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
 **Stripe**  
 [How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
 **Goldman Sachs**   

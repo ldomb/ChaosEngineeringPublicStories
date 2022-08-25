@@ -1,3 +1,5 @@
+# Public Chaos Engineering Stories / Implementations
+
 This list provides you with various public stories about Chaos Engineering. If you have an update for the least, please create a pull request!
 
 _**Financial Services**_
@@ -42,6 +44,8 @@ _**Health Care**_
 
 **Cerner**  
 [Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/)
+**HaloDoc**  
+[Applying Chaos Engineering @HaloDoc](https://youtu.be/t8F0FAw6K6E?t=1086)
 
 _**Insurance**_
 ---------------

@@ -1,6 +1,6 @@
 # Public Chaos Engineering Stories / Implementations
 
-This list provides you with various public stories about Chaos Engineering. If you have an update for the least, please create a pull request!
+This list provides you with various public stories about Chaos Engineering. If you have an update, please create a pull request!
 
 _**Financial Services**_
 ------------------------

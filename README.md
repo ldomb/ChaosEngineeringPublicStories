@@ -95,6 +95,8 @@ _**Transport / Airlines**_
 [Chaos Experimentation](https://clutch.sh/blog/2021/05/18/chaos-experimentation/)  
 **Uber**  
 [Chaos Engineering @ Uber](https://www.youtube.com/watch?v=ywSAwYsIk8k)  
+**iFood**  
+[Chaos Engineering @ iFood](https://www.youtube.com/watch?v=t8F0FAw6K6E)  
 
 
 _**FoodDelivery**_

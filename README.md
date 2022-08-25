@@ -18,7 +18,7 @@ _**Financial Services**_
 [kallisti](https://github.com/jpmorganchase/kallisti)  
 **DBS bank limited**  
 [How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
-[How DBS dispelled the myths of Chaos Engineering](https://youtu.be/effnedZRURc)  
+[How DBS dispelled the myths of Chaos Engineering Video](https://youtu.be/effnedZRURc)  
 **Vanguard**  
 [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
 [How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  

@@ -39,7 +39,7 @@ _**Financial Services**_
 **Kount / Equifax**   
 [Chaos Engineering at Kount](https://www.youtube.com/watch?v=6y62FSPTPTw)  
 **Pismo**  
-[[How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)   
+[How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)   
 
 _**Health Care**_
 -----------------

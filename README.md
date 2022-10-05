@@ -117,7 +117,8 @@ _**Hospitality**_
 -----------------
 
 **Expedia**  
-[Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/) [https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
+[Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/)   
+[How to perform optimized regression tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
 **VRBO, Hotels.com**  
 [London Chaos and Resilience Engineering Community](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
 
@@ -125,6 +126,7 @@ _**Hospitality**_
 -----------------------------------------
 
 **Air Force**  
-[How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force) [https://kesselrun.af.mil/news/CHAOS-Engineering.html](https://kesselrun.af.mil/news/CHAOS-Engineering.html)  
+[How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force)   
+[Chaos Engineering US-AirForce](https://kesselrun.af.mil/news/CHAOS-Engineering.html)  
 **Ministry of Justice UK**  
 [Cloud Platform Chaos](https://github.com/ministryofjustice/cloud-platform-chaos)

@@ -36,6 +36,7 @@ _**Financial Services**_
 [How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
 **Goldman Sachs**   
 [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
+[Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)
 **Kount / Equifax**   
 [Chaos Engineering at Kount](https://www.youtube.com/watch?v=6y62FSPTPTw)  
 **Pismo**  

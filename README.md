@@ -46,7 +46,8 @@ _**Health Care**_
 -----------------
 
 **Cerner**  
-[Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/)   
+[Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/) 
+[Building confidence in healthcare through chaos engineering](https://www.infoq.com/presentations/cerner-resiliency/)  
 **HaloDoc**  
 [Applying Chaos Engineering @HaloDoc](https://youtu.be/t8F0FAw6K6E?t=1086)
 

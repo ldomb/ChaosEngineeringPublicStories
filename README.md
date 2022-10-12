@@ -10,6 +10,7 @@ _**Financial Services**_
 **Capital One**  
 [Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
 [5 Steps to Getting Your App Chaos Ready](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  
+[Embrace the Chaos Engineering](https://medium.com/capital-one-tech/embrace-the-chaos-engineering-203fd6fc6ff7)     
 **National Australia Bank**  
 [Observability in the realm of Chaos Engineering](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
 **JPMC**  

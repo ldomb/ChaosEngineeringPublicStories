@@ -123,6 +123,7 @@ _**Hospitality**_
 **Expedia**  
 [Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/)   
 [How to perform optimized regression tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
+[Chaos Engineering at Expedia](https://medium.com/expedia-group-tech/chaos-engineering-at-expedia-group-e51a0288ee2)   
 **VRBO, Hotels.com**  
 [London Chaos and Resilience Engineering Community](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
 

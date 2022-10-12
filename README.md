@@ -24,7 +24,9 @@ _**Financial Services**_
 [Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
 [How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
 **Bloomberg**  
-[Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
+[Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)   
+[Supercharge your SRE teams with Chaos Engineering](https://www.devopsinstitute.com/wp-content/uploads/2021/06/SRE-21-Mikolaj-SlideDeck-.pptx.pdf)
+
 **DTCC**  
 [The Power of technology resilience](https://www.dtcc.com/-/media/Files/Downloads/WhitePapers/The-Power-of-Technology-Resilience.pdf)  
 [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  

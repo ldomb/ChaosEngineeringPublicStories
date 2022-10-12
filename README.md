@@ -99,6 +99,7 @@ _**Transport / Airlines**_
 
 **Alaska Airlines**  
 [When Observability is Good for Chaos](https://www.rtinsights.com/when-observability-is-good-for-chaos/)  
+[From Chaos to Optimization: Alaska Airlines’ Observability Journey](https://www.youtube.com/watch?v=PCHjBNhj26U)  
 **Lyft**  
 [Chaos Experimentation](https://clutch.sh/blog/2021/05/18/chaos-experimentation/)  
 **Uber**  

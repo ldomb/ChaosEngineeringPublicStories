@@ -133,6 +133,12 @@ _**Hospitality**_
 **VRBO, Hotels.com**  
 [London Chaos and Resilience Engineering Community](https://medium.com/expedia-group-tech/london-chaos-and-resilience-engineering-community-c703e301339b)
 
+_**Printing/Graphics/Publishing**_   
+-----------------    
+
+**Adobe**   
+[How we were building resilience in adobe experience platform](https://blog.developer.adobe.com/chaos-engineering-how-were-building-resilience-in-adobe-experience-platform-768715a9c784)      
+
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 

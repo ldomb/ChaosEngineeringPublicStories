@@ -26,6 +26,7 @@ _**Financial Services**_
 **Bloomberg**  
 [Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)  
 **DTCC**  
+[The Power of technology resilience](https://www.dtcc.com/-/media/Files/Downloads/WhitePapers/The-Power-of-Technology-Resilience.pdf)  
 [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
 **Intuit**  
 [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  

@@ -108,6 +108,11 @@ _**Transport / Airlines**_
 **Uber**  
 [Chaos Engineering @ Uber](https://www.youtube.com/watch?v=ywSAwYsIk8k)  
 
+_**Human Resources**_    
+---------------    
+
+**Lifion by ADP**   
+[Chaos is good in tech](https://eng.lifion.com/chaos-is-good-in-tech-2c487fce102f)    
 
 _**FoodDelivery**_
 ---------------

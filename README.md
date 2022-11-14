@@ -76,6 +76,8 @@ Media and Entertainment
 [Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
 **Amazon Prime**  
 [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
+** Twitch **  
+[Chaos Engineering at Twitch](https://blog.quastor.org/p/chaos-engineering-twitch)  
 
 _**TELCO**_
 -----------

@@ -79,7 +79,7 @@ Media and Entertainment
 [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
 [Building resilent systems at Amazon Prime](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)  
 **Twitch**  
-[Chaos Engineering at Twitch](https://blog.quastor.org/p/chaos-engineering-twitch)  
+[Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
 
 _**TELCO**_
 -----------

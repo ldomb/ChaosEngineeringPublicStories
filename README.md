@@ -149,7 +149,11 @@ _**Printing/Graphics/Publishing**_
 
 _**Gaming**_   
 -----------------  
+**NetEase Fuxi AI**   
 [How NetEase Fuxi AI Lab is using chaos engineering to improve testing](https://www.pingcap.com/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing/)   
+
+**Interactive Entertainment Group**   
+[Secure online gameing through chaos engineering](https://www.pingcap.com/blog/securing-online-gaming-combine-chaos-engineering-with-devops-practices/)   
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------

@@ -145,7 +145,11 @@ _**Printing/Graphics/Publishing**_
 -----------------    
 
 **Adobe**   
-[How we were building resilience in adobe experience platform](https://blog.developer.adobe.com/chaos-engineering-how-were-building-resilience-in-adobe-experience-platform-768715a9c784)      
+[How we were building resilience in adobe experience platform](https://blog.developer.adobe.com/chaos-engineering-how-were-building-resilience-in-adobe-experience-platform-768715a9c784)   
+
+_**Gaming**_   
+-----------------  
+[How NetEase Fuxi AI Lab is using chaos engineering to improve testing](https://www.pingcap.com/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing/)   
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------

@@ -155,6 +155,9 @@ _**Gaming**_
 **Interactive Entertainment Group**   
 [Secure online gameing through chaos engineering](https://www.pingcap.com/blog/securing-online-gaming-combine-chaos-engineering-with-devops-practices/)   
 
+**Riot Games**   
+[Controlled Chaos with fault injection testing](https://technology.riotgames.com/news/controlled-chaos-fault-injection-testing)
+
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 

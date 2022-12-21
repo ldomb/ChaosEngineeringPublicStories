@@ -162,9 +162,14 @@ _**Gaming**_
 
 _**ERP**_
 -----------------
-
 **SAP**   
 [Handling chaos and complexity when building and running enterprise software systems](https://blogs.sap.com/2018/10/09/handling-chaos-and-complexity-when-building-and-running-enterprise-software-systems)    
+
+_**Fashion**_
+-----------------    
+**Under Armour**   
+[Breaking things on purpose](https://www.gremlin.com/blog/podcast-break-things-on-purpose-ep-3-paul-osman-senior-engineering-manager-at-under-armour/)  
+[Measuring Chaos](https://conferences.oreilly.com/velocity/vl-eu/cdn.oreillystatic.com/en/assets/1/event/302/Measuring%20chaos_%20Chaos%20engineering%20and%20team%20health%20Presentation.pdf)   
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------

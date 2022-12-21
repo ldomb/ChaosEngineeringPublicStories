@@ -160,7 +160,7 @@ _**Gaming**_
 **Riot Games**   
 [Controlled Chaos with fault injection testing](https://technology.riotgames.com/news/controlled-chaos-fault-injection-testing)   
 
-_**ERP**_   
+_**ERP**_ 
 
 **SAP**   
 [Handling chaos and complexity when building and running enterprise software systems](https://blogs.sap.com/2018/10/09/handling-chaos-and-complexity-when-building-and-running-enterprise-software-systems)    

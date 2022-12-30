@@ -5,6 +5,8 @@ This list provides you with various public stories about Chaos Engineering. If y
 _**Financial Services**_
 ------------------------
 
+**Nationwide Building Society**   
+[Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/)   
 **Starling Bank**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
 **Capital One**  

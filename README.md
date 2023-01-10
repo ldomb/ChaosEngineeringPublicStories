@@ -8,7 +8,7 @@ _**Financial Services**_
 **Nationwide Building Society**   
 [Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/)   
 **Itau Brazil**   
-[Chaos Engineering and Observability](https://grafana.com/blog/2022/11/28/how-banco-itau-tracks-1.5b-daily-metrics-on-prem-and-in-aws-with-grafana-and-observability/)
+[Chaos Engineering and Observability](https://grafana.com/blog/2022/11/28/how-banco-itau-tracks-1.5b-daily-metrics-on-prem-and-in-aws-with-grafana-and-observability/)  
 **Starling Bank**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
 **Capital One**  

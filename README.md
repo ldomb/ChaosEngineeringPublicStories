@@ -178,6 +178,8 @@ _**Fashion**_
 
 **_Government use of Chaos Engineering_**
 -----------------------------------------
+**DoD**    
+[DoD Enterprise DevSecOps Community of Practice](https://software.af.mil/wp-content/uploads/2021/06/06-23-2021-DevSecOps-CoP-Slides-Final.pdf)    
 
 **Air Force**  
 [How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force)   

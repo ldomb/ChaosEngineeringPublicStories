@@ -101,12 +101,16 @@ _**TELCO**_
 [Chaos Engineering at Twilio](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
 [Chaos Gamedays](https://github.com/twilio/gameday)  
 
+_**Cloud Providers**_    
+---------------------     
+**Amazon Web Services**    
+[AWS Lambda - Resilience-under-the-hood](https://aws.amazon.com/blogs/compute/aws-lambda-resilience-under-the-hood/)       
 
 _**Retail**_
 -----------
 
 **Target**  
-[ Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  
+[Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  
 [Ɔhaos Ǝnginǝǝring @ Target - Part 2](https://tech.target.com/blog/chaos-engineering-at-target-part-2)  
 **Walmart**  
 [Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  

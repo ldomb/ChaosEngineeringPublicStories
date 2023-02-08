@@ -188,6 +188,7 @@ _**Fashion**_
 -----------------------------------------
 **DoD**    
 [DoD Enterprise DevSecOps Community of Practice](https://software.af.mil/wp-content/uploads/2021/06/06-23-2021-DevSecOps-CoP-Slides-Final.pdf)    
+[DoD MIT Chaos Engineering](https://www.ll.mit.edu/sites/default/files/project/doc/2020-07/2Page-ChaosAndDisruption-v.10.pdf)      
 
 **Air Force**  
 [How Chaos Engineering Transforms Cybersecurity for the Air Force](https://governmentciomedia.com/listen-how-chaos-engineering-transforms-cybersecurity-air-force)   

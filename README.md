@@ -139,6 +139,11 @@ _**Human Resources**_
 **Lifion by ADP**   
 [Chaos is good in tech](https://eng.lifion.com/chaos-is-good-in-tech-2c487fce102f)    
 
+
+_**Social Media**_       
+---------------      
+[A Request-Level Failure Injection Framework](https://engineering.linkedin.com/blog/2018/05/linkedout--a-request-level-failure-injection-framework)     
+
 _**FoodDelivery**_
 ---------------
 

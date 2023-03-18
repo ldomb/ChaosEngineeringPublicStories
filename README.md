@@ -91,6 +91,8 @@ Media and Entertainment
 [Disney + Hotstar and their tale with scalability](https://www.linkedin.com/pulse/disney-hotstar-tale-scalability-achyutha-rao-sathvick/)   
 **Twitch**  
 [Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
+**CONDÉ NAST**       
+[how Condé Nast practices Chaos Engineering - Growing Resilience: Serving Half a Billion Users Monthly at Condé Nast](https://www.infoq.com/presentations/growing-resilience-conde-nast/)     
 
 _**TELCO**_
 -----------

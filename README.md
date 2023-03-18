@@ -93,6 +93,8 @@ Media and Entertainment
 [Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
 **CONDÉ NAST**       
 [how Condé Nast practices Chaos Engineering - Growing Resilience: Serving Half a Billion Users Monthly at Condé Nast](https://www.infoq.com/presentations/growing-resilience-conde-nast/)     
+[How Condé Nast Succeeds by Buildling a Culture that Embraces Failure
+](https://www.infoq.com/presentations/conde-nast-culture/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)        
 
 _**TELCO**_
 -----------

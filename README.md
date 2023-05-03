@@ -163,6 +163,7 @@ _**Hospitality**_
 -----------------
 
 **Expedia**  
+[Chaos Engineering at Scale](https://atscaleconference.com/videos/chaos-engineering-at-scale/)   
 [Automating Chaos Attacks](https://www.infoq.com/presentations/automating-attacks/)   
 [How to perform optimized regression tests](https://www.builtinseattle.com/2020/05/28/how-perform-optimize-regression-tests)  
 [Chaos Engineering at Expedia](https://medium.com/expedia-group-tech/chaos-engineering-at-expedia-group-e51a0288ee2)   

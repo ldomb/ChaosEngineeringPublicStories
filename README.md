@@ -157,7 +157,7 @@ _**FoodDelivery**_
 **iFood**  
 [Chaos Engineering @ iFood](https://youtu.be/t8F0FAw6K6E?t=625)  
 **Just Eat**     
-[[Causing Chaos]](https://medium.com/justeattakeaway-tech/causing-chaos-3ab9bb5a7235)     
+[Causing Chaos](https://medium.com/justeattakeaway-tech/causing-chaos-3ab9bb5a7235)     
 
 _**Hospitality**_
 -----------------

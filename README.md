@@ -13,6 +13,7 @@ _**Financial Services**_
 **Starling Bank**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
 **Capital One**  
+[How Capital one performs Chaos Engineering in Production](https://thenewstack.io/how-capital-one-performs-chaos-engineering-in-production/)   
 [AWS re:Invent 2022 - Benefiting from chaos engineering at Capital One (PRT026)](https://www.youtube.com/watch?v=gwV7Uy5DxYM)  
 [Continuous Chaos — Introducing Chaos Engineering into DevOps Practices](https://www.capitalone.com/tech/software-engineering/continuous-chaos-introducing-chaos-engineering-into-devops-practices/)  
 [5 Steps to Getting Your App Chaos Ready](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  

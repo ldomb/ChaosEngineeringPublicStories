@@ -192,8 +192,9 @@ _**Gaming**_
 _**ERP**_
 -----------------
 **SAP**   
+[Security Chaos Engineering and Security Engineering Amid Chaos: Cloud-native Cyber Resilience](https://blogs.sap.com/2023/05/14/security-chaos-engineering-and-security-engineering-amid-chaos-cloud-native-cyber-resilience)         
 [Handling chaos and complexity when building and running enterprise software systems](https://blogs.sap.com/2018/10/09/handling-chaos-and-complexity-when-building-and-running-enterprise-software-systems)    
-[Security Chaos Engineering and Security Engineering Amid Chaos: Cloud-native Cyber Resilience](https://blogs.sap.com/2023/05/14/security-chaos-engineering-and-security-engineering-amid-chaos-cloud-native-cyber-resilience)]    
+
 
 _**Fashion**_
 -----------------    

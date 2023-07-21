@@ -131,7 +131,7 @@ _**Retail**_
 _**e-commerce**_
 ---------------       
 **Ebay**  
-[Ebay explores chaos fault testing at the application level]https://thenewstack.io/ebay-explores-chaos-fault-testing-at-the-application-level/
+[Ebay explores chaos fault testing at the application level](https://thenewstack.io/ebay-explores-chaos-fault-testing-at-the-application-level/)        
 
 _**Transport / Airlines**_
 ---------------

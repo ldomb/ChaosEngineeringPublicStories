@@ -126,7 +126,12 @@ _**Retail**_
 [Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  
 [Resiliency Doctor — A tool to achieve resiliency in hybrid cloud application ecosystems](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7)  
 **Etsy**  
-[Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)
+[Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)       
+
+_**e-commerce**_
+---------------       
+**Ebay**  
+[Ebay explores chaos fault testing at the application level]https://thenewstack.io/ebay-explores-chaos-fault-testing-at-the-application-level/
 
 _**Transport / Airlines**_
 ---------------

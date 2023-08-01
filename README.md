@@ -6,6 +6,8 @@ _**Financial Services**_
 ------------------------
 **Ally**    
 [Chaos Testing improving system resilience](https://ally.tech/chaos-testing-improving-system-resilience-f88a4a6458ba)   
+**ZaloPay**    
+[Chaos Engineering at ZaloPay](https://engineering.zalopay.vn/how-we-apply-chaos-engineering/)      
 **Nationwide Building Society**   
 [Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/)   
 **Itau Brazil**   

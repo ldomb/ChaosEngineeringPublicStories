@@ -13,6 +13,8 @@ _**Financial Services**_
 **Itau Brazil**   
 [Chaos Engineering and Observability](https://grafana.com/blog/2022/11/28/how-banco-itau-tracks-1.5b-daily-metrics-on-prem-and-in-aws-with-grafana-and-observability/)  
 [A real-world resilience evolution in the cloud framework (ARC309)](https://www.youtube.com/watch?v=OoakxhLxue8)     
+**Satander Bank**    
+[The art of introducing intentional failures](https://www.santanderconsumergs.com/news/https-impulsate-between-tech-chaos-engineering)    
 **Starling Bank**   
 [The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
 **Capital One**  

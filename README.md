@@ -121,6 +121,7 @@ _**Cloud Providers**_
 ---------------------     
 **Amazon Web Services**    
 [AWS Lambda - Resilience-under-the-hood](https://aws.amazon.com/blogs/compute/aws-lambda-resilience-under-the-hood/)       
+[How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)      
 
 _**Retail**_
 -----------

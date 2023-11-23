@@ -124,7 +124,9 @@ _**Cloud Providers**_
 [How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)      
 
 _**Retail**_
------------
+-----------      
+**REI Co-op**  
+[REI’s Checkout microservice  - An introduction to Chaos Engineering at REI](https://engineering.rei.com/devops/chaos-engineering.html)     
 
 **Target**  
 [Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  

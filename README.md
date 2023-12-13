@@ -59,7 +59,9 @@ _**Financial Services**_
 **Pismo**  
 [How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)  
 **Rabo Bank**   
-[Unleash that Chaos](https://rabobank.jobs/en/techblog/coding-architecture/unleash-that-chaos-engineering/)   
+[Unleash that Chaos](https://rabobank.jobs/en/techblog/coding-architecture/unleash-that-chaos-engineering/)  
+**Apollo / Yahoo**
+[Chaos engineering in a production environment practiced by Yahoo!](https://techblog-yahoo-co-jp.translate.goog/entry/2023013030404798/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)    
 
 _**Health Care**_
 -----------------
@@ -91,8 +93,9 @@ Media and Entertainment
 [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
 [Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
 **Amazon Prime**  
+[Practice like you play: How Amazon scales resilience to new heights](https://www.youtube.com/watch?v=r3J0fEgNCLQ)
 [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
-[Building resilent systems at Amazon Prime](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)  
+[Building resilent systems at Amazon Prime Video](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)  
 **Disney + Hotstar**   
 [Disney + Hotstar and their tale with scalability](https://www.linkedin.com/pulse/disney-hotstar-tale-scalability-achyutha-rao-sathvick/)   
 **Twitch**  
@@ -115,13 +118,15 @@ _**Networking & Telecommunications**_
 [Discovering Issues with HTTP/2 via Chaos Testing](https://www.twilio.com/blog/2017/10/http2-issues.html)       
 [Chaos Gamedays](https://github.com/twilio/gameday)  
 **Cisco**    
-[Adoption of Chaos Engineering in Webex Contact Center](https://blog.webex.com/engineering/chaos-engineering-in-webex-contact-center/)      
+[Adoption of Chaos Engineering in Webex Contact Center](https://blog.webex.com/engineering/chaos-engineering-in-webex-contact-center/)    
+
 
 _**Cloud Providers**_    
 ---------------------     
 **Amazon Web Services**    
 [AWS Lambda - Resilience-under-the-hood](https://aws.amazon.com/blogs/compute/aws-lambda-resilience-under-the-hood/)       
 [How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)      
+[Any Day Can Be Prime Day: How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)     
 
 _**Retail**_
 -----------      

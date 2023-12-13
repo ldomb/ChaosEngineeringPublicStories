@@ -60,7 +60,7 @@ _**Financial Services**_
 [How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)  
 **Rabo Bank**   
 [Unleash that Chaos](https://rabobank.jobs/en/techblog/coding-architecture/unleash-that-chaos-engineering/)  
-**Apollo / Yahoo**
+**Apollo / Yahoo**   
 [Chaos engineering in a production environment practiced by Yahoo!](https://techblog-yahoo-co-jp.translate.goog/entry/2023013030404798/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)    
 
 _**Health Care**_

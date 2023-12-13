@@ -93,7 +93,7 @@ Media and Entertainment
 [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
 [Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
 **Amazon Prime**  
-[Practice like you play: How Amazon scales resilience to new heights](https://www.youtube.com/watch?v=r3J0fEgNCLQ)
+[Practice like you play: How Amazon scales resilience to new heights](https://www.youtube.com/watch?v=r3J0fEgNCLQ)    
 [From Chaos To Resilience](https://www.youtube.com/watch?v=ztiPjey2rfY&t=1982s)  
 [Building resilent systems at Amazon Prime Video](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)  
 **Disney + Hotstar**   

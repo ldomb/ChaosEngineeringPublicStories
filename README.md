@@ -105,6 +105,11 @@ Media and Entertainment
 [How Condé Nast Succeeds by Buildling a Culture that Embraces Failure
 ](https://www.infoq.com/presentations/conde-nast-culture/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)        
 
+_**News**_
+------------------------    
+[A Chaos test too far](https://medium.com/ft-product-technology/a-chaos-test-too-far-6405c2cc4bbb)    
+
+
 _**Networking & Telecommunications**_
 ---------------------------------
 

@@ -107,6 +107,7 @@ Media and Entertainment
 
 _**News**_
 ------------------------    
+**Financial Times**    
 [A Chaos test too far](https://medium.com/ft-product-technology/a-chaos-test-too-far-6405c2cc4bbb)    
 
 

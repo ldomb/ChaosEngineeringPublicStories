@@ -143,6 +143,9 @@ _**Retail**_
 [Ɔhaos Ǝnginǝǝring @ Target - Part 1](https://tech.target.com/blog/chaos-engineering-at-target-part-1)  
 [Ɔhaos Ǝnginǝǝring @ Target - Part 2](https://tech.target.com/blog/chaos-engineering-at-target-part-2)  
 **Walmart**  
+[Chaos Engineering- Chaos Toolkit- S1E2- Pod Kill](https://medium.com/walmartglobaltech/chaos-engineering-chaos-toolkit-s1e2-pod-kill-73a1d302736d)  
+[Chaos Engineering- Chaos Toolkit- S1E3- Toxiproxy](https://medium.com/walmartglobaltech/chaos-engineering-chaos-toolkit-s1e3-toxiproxy-4a8b804e6a15)  
+[Chaos Engineering- Chaos Toolkit- S1E4- Chaos Monkey](https://medium.com/walmartglobaltech/chaos-engineering-chaos-toolkit-s1e4-chaos-monkey-1478e3a0d9a2)  
 [Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  
 [Resiliency Doctor — A tool to achieve resiliency in hybrid cloud application ecosystems](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7)  
 **Etsy**  

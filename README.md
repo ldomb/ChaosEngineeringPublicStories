@@ -4,6 +4,9 @@ This list provides you with various public stories about Chaos Engineering. If y
 
 _**Financial Services**_
 ------------------------
+**London Stock Exchange Group**  
+[London Stock Exchange Group uses chaos engineering on AWS to improve resilience
+](https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/)  
 **Ally**    
 [Chaos Testing improving system resilience](https://ally.tech/chaos-testing-improving-system-resilience-f88a4a6458ba)   
 **ZaloPay**    

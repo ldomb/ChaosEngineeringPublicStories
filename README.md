@@ -4,22 +4,14 @@ This list provides you with various public stories about Chaos Engineering. If y
 
 _**Financial Services**_
 ------------------------
-**London Stock Exchange Group**  
-[London Stock Exchange Group uses chaos engineering on AWS to improve resilience
-](https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/)  
 **Ally**    
 [Chaos Testing improving system resilience](https://ally.tech/chaos-testing-improving-system-resilience-f88a4a6458ba)   
-**ZaloPay**    
-[Chaos Engineering at ZaloPay](https://engineering.zalopay.vn/how-we-apply-chaos-engineering/)      
-**Nationwide Building Society**   
-[Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/)   
-**Itau Brazil**   
-[Chaos Engineering and Observability](https://grafana.com/blog/2022/11/28/how-banco-itau-tracks-1.5b-daily-metrics-on-prem-and-in-aws-with-grafana-and-observability/)  
-[A real-world resilience evolution in the cloud framework (ARC309)](https://www.youtube.com/watch?v=OoakxhLxue8)     
-**Satander Bank**    
-[The art of introducing intentional failures](https://www.santanderconsumergs.com/news/https-impulsate-between-tech-chaos-engineering)    
-**Starling Bank**   
-[The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
+**Apollo / Yahoo**   
+[Chaos engineering in a production environment practiced by Yahoo!](https://techblog-yahoo-co-jp.translate.goog/entry/2023013030404798/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)    
+**Bloomberg**  
+[Chaos Engineering: A 5 year Retrospective](https://www.usenix.org/system/files/srecon21_slides_pawlikowski.pdf)   
+[Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)   
+[Supercharge your SRE teams with Chaos Engineering](https://www.devopsinstitute.com/wp-content/uploads/2021/06/SRE-21-Mikolaj-SlideDeck-.pptx.pdf)  
 **Capital One**  
 [How Capital one performs Chaos Engineering in Production](https://thenewstack.io/how-capital-one-performs-chaos-engineering-in-production/)   
 [AWS re:Invent 2022 - Benefiting from chaos engineering at Capital One (PRT026)](https://www.youtube.com/watch?v=gwV7Uy5DxYM)  
@@ -27,44 +19,52 @@ _**Financial Services**_
 [5 Steps to Getting Your App Chaos Ready](https://www.capitalone.com/tech/software-engineering/is-your-app-chaos-engineering-ready/)  
 [Embrace the Chaos Engineering](https://medium.com/capital-one-tech/embrace-the-chaos-engineering-203fd6fc6ff7)  
 [3 Lessions learned from implementing Chaos Engineering](https://medium.com/capital-one-tech/3-lessons-learned-from-implementing-chaos-engineering-at-enterprise-28eb3ffecc57)  
-**National Australia Bank**  
-[Observability in the realm of Chaos Engineering](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
+**DBS bank limited**  
+[How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
+[How DBS dispelled the myths of Chaos Engineering Video](https://youtu.be/effnedZRURc)  
+**DTCC**  
+[The Power of technology resilience](https://www.dtcc.com/-/media/Files/Downloads/WhitePapers/The-Power-of-Technology-Resilience.pdf)  
+[Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
+**Goldman Sachs**   
+[Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
+[Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)  
+**Intuit**  
+[Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
+[Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
+**Itau Brazil**   
+[Chaos Engineering and Observability](https://grafana.com/blog/2022/11/28/how-banco-itau-tracks-1.5b-daily-metrics-on-prem-and-in-aws-with-grafana-and-observability/)  
+[A real-world resilience evolution in the cloud framework (ARC309)](https://www.youtube.com/watch?v=OoakxhLxue8)     
 **JPMC**  
 [Don't ignore Chaos testing!](https://antrix.net/posts/2021/chaos/)  
 [Chaos engineering @ J.P. Morgan Chase - Garima Singh & Deepak Sarda](https://www.youtube.com/watch?v=8e93cFBpvPQ)   
 [kallisti](https://github.com/jpmorganchase/kallisti)  
-**DBS bank limited**  
-[How DBS dispelled the myths of Chaos Engineering](https://medium.com/dbs-tech-blog/how-dbs-dispelled-the-myths-of-chaos-engineering-e5873ac78c9)  
-[How DBS dispelled the myths of Chaos Engineering Video](https://youtu.be/effnedZRURc)  
-**Vanguard**  
-[Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
-[How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
-**Bloomberg**  
-[Chaos Engineering: A 5 year Retrospective](https://www.usenix.org/system/files/srecon21_slides_pawlikowski.pdf)   
-[Chaos Engineering with PowerfulSeal](https://youtu.be/KKFiR_F3n8I)   
-[Supercharge your SRE teams with Chaos Engineering](https://www.devopsinstitute.com/wp-content/uploads/2021/06/SRE-21-Mikolaj-SlideDeck-.pptx.pdf)  
-**DTCC**  
-[The Power of technology resilience](https://www.dtcc.com/-/media/Files/Downloads/WhitePapers/The-Power-of-Technology-Resilience.pdf)  
-[Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
-**Intuit**  
-[Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
-[Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
-**TD Bank**  
-[Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
-[Continuous Stability Engineering Video](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
-**Stripe**  
-[How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
-**Goldman Sachs**   
-[Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
-[Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)  
 **Kount / Equifax**   
 [Chaos Engineering at Kount](https://www.youtube.com/watch?v=6y62FSPTPTw)  
+**London Stock Exchange Group**  
+[London Stock Exchange Group uses chaos engineering on AWS to improve resilience
+](https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/)  
+**Nationwide Building Society**   
+[Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/)   
+**National Australia Bank**  
+[Observability in the realm of Chaos Engineering](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
 **Pismo**  
 [How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)  
 **Rabo Bank**   
 [Unleash that Chaos](https://rabobank.jobs/en/techblog/coding-architecture/unleash-that-chaos-engineering/)  
-**Apollo / Yahoo**   
-[Chaos engineering in a production environment practiced by Yahoo!](https://techblog-yahoo-co-jp.translate.goog/entry/2023013030404798/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)    
+**Satander Bank**    
+[The art of introducing intentional failures](https://www.santanderconsumergs.com/news/https-impulsate-between-tech-chaos-engineering)    
+**Starling Bank**   
+[The Abyss of Ignorable: a Route into Chaos Testing from Starling Bank](https://www.infoq.com/articles/chaos-testing-starling-bank/)  
+**Stripe**  
+[How Our Security Requirements Turned Us into Accidental Chaos Engineers](https://www.youtube.com/watch?v=H13beqD7Hbk)  
+**TD Bank**  
+[Continuous Stability Engineering - Minimizing Chaos](https://devopsdays.org/events/2019-toronto/program/suzan-mahboob)  
+[Continuous Stability Engineering Video](https://www.youtube.com/watch?v=h2oqL3XHrGA)  
+**Vanguard**  
+[Cloudy with a Chance of Chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)  
+[How Chaos Engineering works at Vanguard](https://www.youtube.com/watch?v=2YS9l5WbzGk)  
+**ZaloPay**    
+[Chaos Engineering at ZaloPay](https://engineering.zalopay.vn/how-we-apply-chaos-engineering/)      
 
 _**Health Care**_
 -----------------

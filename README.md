@@ -115,19 +115,17 @@ _**News**_
 
 _**Networking & Telecommunications**_
 ---------------------------------
-
+**Cisco**    
+[Adoption of Chaos Engineering in Webex Contact Center](https://blog.webex.com/engineering/chaos-engineering-in-webex-contact-center/)    
+**Orange**  
+[Validating the resiliency of Orange’s private telco.](https://litmuschaos.io/adopters/orange)  
 **T-mobile**  
 [The Start of Chaos Engineering at T-Mobile](https://opensource.t-mobile.com/blog/posts/chaos-engineering/)  
 [Monarch: App-level Chaos Engineering](https://opensource.t-mobile.com/blog/posts/monarch-app-level/)  
-**Orange**  
-[Validating the resiliency of Orange’s private telco.](https://litmuschaos.io/adopters/orange)  
 **Twilio**  
 [Chaos Engineering at Twilio](https://www.infoq.com/news/2017/12/twilio-chaos-engineering/)  
 [Discovering Issues with HTTP/2 via Chaos Testing](https://www.twilio.com/blog/2017/10/http2-issues.html)       
 [Chaos Gamedays](https://github.com/twilio/gameday)  
-**Cisco**    
-[Adoption of Chaos Engineering in Webex Contact Center](https://blog.webex.com/engineering/chaos-engineering-in-webex-contact-center/)    
-
 
 _**Cloud Providers**_    
 ---------------------     
@@ -138,6 +136,9 @@ _**Cloud Providers**_
 
 _**Retail**_
 -----------      
+**Etsy**  
+[Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)      
+
 **REI Co-op**  
 [REI’s Checkout microservice  - An introduction to Chaos Engineering at REI](https://engineering.rei.com/devops/chaos-engineering.html)     
 
@@ -150,8 +151,7 @@ _**Retail**_
 [Chaos Engineering- Chaos Toolkit- S1E4- Chaos Monkey](https://medium.com/walmartglobaltech/chaos-engineering-chaos-toolkit-s1e4-chaos-monkey-1478e3a0d9a2)  
 [Charting a path to software resiliency](https://medium.com/walmartglobaltech/charting-a-path-to-software-resiliency-38148d956f4a)  
 [Resiliency Doctor — A tool to achieve resiliency in hybrid cloud application ecosystems](https://medium.com/walmartglobaltech/resiliency-doctor-a-tool-to-achieve-resiliency-in-hybrid-cloud-application-ecosystems-3d7fc9427fd7)  
-**Etsy**  
-[Fault Injection in Production](https://queue.acm.org/detail.cfm?id=2353017)       
+ 
 
 _**e-commerce**_
 ---------------       
@@ -210,11 +210,11 @@ _**Printing/Graphics/Publishing**_
 
 _**Gaming**_   
 -----------------  
-**NetEase Fuxi AI**   
-[How NetEase Fuxi AI Lab is using chaos engineering to improve testing](https://www.pingcap.com/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing/)   
-
 **Interactive Entertainment Group**   
 [Secure online gameing through chaos engineering](https://www.pingcap.com/blog/securing-online-gaming-combine-chaos-engineering-with-devops-practices/)   
+
+**NetEase Fuxi AI**   
+[How NetEase Fuxi AI Lab is using chaos engineering to improve testing](https://www.pingcap.com/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing/)   
 
 **Riot Games**   
 [Controlled Chaos with fault injection testing](https://technology.riotgames.com/news/controlled-chaos-fault-injection-testing)   

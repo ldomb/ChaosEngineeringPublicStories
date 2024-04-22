@@ -79,19 +79,13 @@ _**Health Care**_
 
 _**Insurance**_
 ---------------
+**Express Scripts**  
+[Chaos and Resilience Engineering - My Journey](https://www.information-safety.org/assets/secure360-chaos-resilience-notes.pdf)  
 **StateFarm**   
 https://engineering.statefarm.com/blog/embracing-chaos/    
 
-**Express Scripts**  
-[Chaos and Resilience Engineering - My Journey](https://www.information-safety.org/assets/secure360-chaos-resilience-notes.pdf)
-
 Media and Entertainment
 -----------------------
-
-**Slack**  
-[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
-**Netflix**  
-[Chaos Engineering Blog](https://netflixtechblog.com/tagged/chaos-engineering)  
 **Audible**  
 [Embracing Chaos: An Introduction to Chaos Engineering at Audible](https://stn.audible.com/chaos-engineering/)  
 [Chaos Engineering and Scalability at Audible.com](https://www.youtube.com/watch?v=7uJG3oPw_AA)  
@@ -101,12 +95,17 @@ Media and Entertainment
 [Building resilent systems at Amazon Prime Video](https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/)  
 **Disney + Hotstar**   
 [Disney + Hotstar and their tale with scalability](https://www.linkedin.com/pulse/disney-hotstar-tale-scalability-achyutha-rao-sathvick/)   
-**Twitch**  
-[Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
 **CONDÉ NAST**       
 [how Condé Nast practices Chaos Engineering - Growing Resilience: Serving Half a Billion Users Monthly at Condé Nast](https://www.infoq.com/presentations/growing-resilience-conde-nast/)     
 [How Condé Nast Succeeds by Buildling a Culture that Embraces Failure
 ](https://www.infoq.com/presentations/conde-nast-culture/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)        
+**Netflix**  
+[Chaos Engineering Blog](https://netflixtechblog.com/tagged/chaos-engineering)  
+**Slack**  
+[Disasterpiece Theater: Slack’s process for approachable Chaos Engineering](https://slack.engineering/disasterpiece-theater-slacks-process-for-approachable-chaos-engineering/)  
+**Twitch**  
+[Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
+
 
 _**News**_
 ------------------------    

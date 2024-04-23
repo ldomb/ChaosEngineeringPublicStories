@@ -11,7 +11,7 @@ author: Laurent Domb
 
 {: .box-success}
 
-This repository provides you with various public stories on how organizations approach and implement Chaos Engineering. If you have a story, please share it by creating a  [pull request](https://github.com/ldomb/ChaosEngineeringPublicStories)!
+This repository provides various public stories on how organizations approach and implement Chaos Engineering. If you have a story to share, please create a  [pull request](https://github.com/ldomb/ChaosEngineeringPublicStories)!
 
 _**Financial Services**_
 ------------------------

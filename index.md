@@ -243,6 +243,9 @@ _**Fashion**_
 [Breaking things on purpose](https://www.gremlin.com/blog/podcast-break-things-on-purpose-ep-3-paul-osman-senior-engineering-manager-at-under-armour/)  
 [Measuring Chaos](https://conferences.oreilly.com/velocity/vl-eu/cdn.oreillystatic.com/en/assets/1/event/302/Measuring%20chaos_%20Chaos%20engineering%20and%20team%20health%20Presentation.pdf)   
 
+**_Higher Education_**    
+[How Pearson improves its resilience with AWS Fault Injection Service](https://aws.amazon.com/blogs/publicsector/how-pearson-improves-its-resilience-with-aws-fault-injection-service/)    
+
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 **DoD**    

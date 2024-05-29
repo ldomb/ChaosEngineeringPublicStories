@@ -40,6 +40,7 @@ _**Financial Services**_
 [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 [Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)  
 **Intuit**  
+[Intuit Runs Gameday Simulations to Test Resilience of Critical Business Systems and Apps at Scale](https://medium.com/intuit-engineering/intuit-runs-gameday-simulations-to-test-resilience-of-critical-business-systems-and-apps-at-scale-7861223d526f)   
 [Testing reliability of our next-gen platform on Kubernetes Keiko](https://litmuschaos.io/adopters/intuit)  
 [Automating Resiliency: How To Remain Calm In The Midst Of Chaos](https://medium.com/intuit-engineering/automating-resiliency-how-to-remain-calm-in-the-midst-of-chaos-d0d3929243ca)  
 **Itau Brazil**   

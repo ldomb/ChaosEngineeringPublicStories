@@ -145,6 +145,11 @@ _**Cloud Providers**_
 [How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)      
 [Any Day Can Be Prime Day: How Amazon.com Search Uses Chaos Engineering to Handle Over 84K Requests Per Second](https://community.aws/posts/how-search-uses-chaos-engineering)     
 
+_**Solution Providers**_    
+---------------------     
+**Honeycomb.io**  
+[Deploy on Friday? How about destroy on Friday!]([https://queue.acm.org/detail.cfm?id=2353017](https://www.honeycomb.io/blog/destroy-on-friday-chaos-engineering-pt1))   
+
 _**Retail**_
 -----------      
 **Etsy**  

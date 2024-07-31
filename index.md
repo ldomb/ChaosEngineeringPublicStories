@@ -148,7 +148,7 @@ _**Cloud Providers**_
 _**Solution Providers**_    
 ---------------------     
 **Honeycomb.io**  
-[Deploy on Friday? How about destroy on Friday!]([https://queue.acm.org/detail.cfm?id=2353017](https://www.honeycomb.io/blog/destroy-on-friday-chaos-engineering-pt1))   
+[Deploy on Friday? How about destroy on Friday!](https://www.honeycomb.io/blog/destroy-on-friday-chaos-engineering-pt1)   
 
 _**Retail**_
 -----------      

@@ -81,6 +81,8 @@ _**Financial Services**_
 _**Health Care**_
 -----------------
 
+**Main Line Health**   
+[Main Line Health deploys chaos engineering to bolster healthcare resilience](https://www.csoonline.com/article/3490060/main-line-health-deploys-chaos-engineering-to-bolster-healthcare-resilience.html)   
 **Cerner**  
 [Applying Chaos Engineering in Healthcare: Getting Started with Sensitive Workloads](https://www.infoq.com/articles/chaos-engineering-healthcare/)  
 [Building confidence in healthcare through chaos engineering](https://www.infoq.com/presentations/cerner-resiliency/)  

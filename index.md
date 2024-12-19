@@ -36,6 +36,8 @@ _**Financial Services**_
 **DTCC**  
 [The Power of technology resilience](https://www.dtcc.com/-/media/Files/Downloads/WhitePapers/The-Power-of-Technology-Resilience.pdf)  
 [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
+**Fidelity**   
+[Fidelity Investments: Building for mission-critical resilience]([https://www.youtube.com/watch?v=mYKNR0UXwMc](https://youtu.be/mYKNR0UXwMc?t=2013))
 **Goldman Sachs**   
 [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 [Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)  

@@ -38,6 +38,7 @@ _**Financial Services**_
 [Resilience White Paper](https://www.dtcc.com/~/media/Files/Downloads/WhitePapers/Resilience-White-Paper.pdf)  
 **Fidelity**   
 [Fidelity Investments: Building for mission-critical resilience](https://youtu.be/mYKNR0UXwMc?t=2013)   
+[Fidelity reveals "chaos buffet" approach, says 7,700 apps now on public cloud](https://www.thestack.technology/fidelity-chaos-buffet-aws-lambda-fis/)   
 **Goldman Sachs**   
 [Chaos Testing an Application on AWS](https://developer.gs.com/blog/posts/chaos-testing-an-application-on-aws)  
 [Beyond the Monkeys Chaos Engineering on the Cloud - Bella Wiseman & Sindhuja Durai, Goldman Sachs](https://www.youtube.com/watch?v=HlQlfkgA4W8)  

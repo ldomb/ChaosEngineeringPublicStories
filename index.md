@@ -123,6 +123,12 @@ Media and Entertainment
 [Chaos Engineering at Twitch](https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/)  
 
 
+_**Automotive**_
+------------------------    
+**BMW**    
+[Chaos engineering: A proactive approach to system resilience](https://www.youtube.com/watch?v=MjPRd_UWCS0)  
+[Engineering Resilient Systems: BMW Group’s Chaos Engineering Journey and Insights](https://aws.amazon.com/blogs/industries/engineering-resilient-systems-bmw-groups-chaos-engineering-journey-and-insights/)  
+
 _**News**_
 ------------------------    
 **Financial Times**    

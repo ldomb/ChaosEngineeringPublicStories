@@ -266,7 +266,8 @@ _**Higher Education**_
 **_Government use of Chaos Engineering_**
 -----------------------------------------
 **DoD**    
-[DoD Enterprise DevSecOps Community of Practice](https://software.af.mil/wp-content/uploads/2021/06/06-23-2021-DevSecOps-CoP-Slides-Final.pdf)    
+[Chaos Engineering for National Defense: Embracing Infrastructure Complexity for Mission Assurance](https://warontherocks.com/2024/10/chaos-engineering-for-national-defense-embracing-infrastructure-complexity-for-mission-assurance/)  
+[DoD Enterprise DevSecOps Community of Practice](https://software.af.mil/dsop/community-of-practice/2021-06/)    
 [DoD MIT Chaos Engineering](https://www.ll.mit.edu/sites/default/files/project/doc/2020-07/2Page-ChaosAndDisruption-v.10.pdf)      
 
 **Air Force**  

@@ -64,6 +64,8 @@ _**Financial Services**_
 [Observability in the realm of Chaos Engineering](https://medium.com/@nabtechblog/observability-in-the-realm-of-chaos-engineering-99089226ca51)  
 **Pismo**  
 [How Pismo adopted Chaos Engineering](https://pismo.io/es/blog/chaos-engineering-is-like-a-lab-says-mauricio-galdieri-on-gremlins-podcast/)  
+**PayerMax**    
+[From a resilient system analysis framework to a fault injection tool](https://aws.amazon.com/solutions/case-studies/payermax/#:~:text=Chaos%20Engineering%20injects%20unknown%20faults,caused%20by%20system%20stability%20defects.)    
 **Rabo Bank**   
 [Unleash that Chaos](https://rabobank.jobs/en/techblog/coding-architecture/unleash-that-chaos-engineering/)  
 **Santander Bank**    
